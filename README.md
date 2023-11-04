@@ -1,7 +1,11 @@
-# Market-research-in-the-Moscow-foodservice-industry-to-make-a-decision-on-opening-a-new-establishment
-Market research in the Moscow foodservice industry to make a decision on opening a new establishment/Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
+# Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
 
-Market research based on open data in the foodservice industry, presentation preparation.
+## Задачи проекта
+Исследование рынка общественного питания на основе открытых данных, подготовка презентации.
 
-A market study was prepared using open data about foodservice establishments in Moscow, and the obtained data was visualized. 
-Based on the data, a location was chosen for opening a new coffee shop. I used seaborn and plotly libraries to create the graphs.
+## Описание проекта
+Подготовлено исследование рынка на основе открытых данных о заведениях общественного питания Москвы, визуализированы полученные данные. 
+На основе данных выбрано место для открытия новой кофейни.
+
+## Навыки и инструменты
+В построении графиков были использованы библиотеки seaborn и plotly. 
